@@ -88,13 +88,13 @@ If I had more time, I would implement the following testing approach:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/interactive-timeline.git
+git clone https://github.com/dmop/timeline-challenge.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd interactive-timeline
+cd timeline-challenge
 ```
 
 3. Install dependencies:
